@@ -1,0 +1,7 @@
+build/
+dist/
+*.exe
+*.pkg
+__pycache__/
+node_modules/
+db.py
